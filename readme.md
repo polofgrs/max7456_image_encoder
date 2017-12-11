@@ -7,8 +7,8 @@ It consists of a Python code that translates the image into line codes that then
 
 ## Image preparation
 
-You will need an image which dimensions are a multiple of 18*12 pixels, in .tif format (I tested up to six tiles).
-In the example above, 'image_example.tif' is composed of two lines of three 18*12 tiles side by side. Be sure to use three separate colors. I like using black, white and grey, which will display as follows on the OSD :
+You will need an image which dimensions are a multiple of 18x12 pixels, in .tif format (I tested up to six tiles).
+In the example above, *'image_example.tif'* is composed of two lines of three 18x12 tiles side by side. Be sure to use three separate colors. I like using black, white and grey, which will display as follows on the OSD :
 * white = transparent
 * grey = white
 * black = black
