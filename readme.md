@@ -1,4 +1,4 @@
-### MAX7456 Custom image encoder
+# MAX7456 Custom image encoder
 
 This is a rather simple code to translate a .tif image into one that can be displayed by the MAX7456 programmable OSD.
 ![max7456](doc/max7456_osd.jpg)
